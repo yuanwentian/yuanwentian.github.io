@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my GitHub Pages
+Welcome to my GitHub Pages.
 
 
 ## About me
@@ -17,7 +17,7 @@ _This_ _is_  _a_ _blockquote_ _following_ _a_ _header._
 
 ## Research interests
 
-I believe **interdisplincy** and can be inspired by so many fields, but the main idea is to 
+    I believe **interdisciplinary** and can be inspired by so many fields, but the main idea is to 
 *   Robotic Manipulation.
 *   Cognitive Science.
 *   Artificial Intelligence.
@@ -26,7 +26,7 @@ I believe **interdisplincy** and can be inspired by so many fields, but the main
 
 
 
-## Selected Projects
+## Selected projects
 
 *   Robotic Manipulation.
 *   Cognitive Science.
