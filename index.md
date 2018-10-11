@@ -17,7 +17,7 @@ _This_ _is_  _a_ _blockquote_ _following_ _a_ _header._
 
 ## Research interests
 
-    I believe **interdisciplinary** and can be inspired by so many fields, but the main idea is to 
+  I believe **interdisciplinary** and can be inspired by so many fields, but the main idea is to 
 *   Robotic Manipulation.
 *   Cognitive Science.
 *   Artificial Intelligence.
