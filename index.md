@@ -33,17 +33,6 @@ I believe **interdisciplinary** and can be inspired by so many fields, but the m
 *   Artificial Intelligence.
 *   Art and Design.
 
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-
-
 ## Publications
 
 * Y. Qian, **Yuanwen Tian**, et al., “Towards Decentralized IoT Security Enhancement: A Blockchain Approach”, _Computers_ _and_ _Electrical_ _Engineering_, accepted on July 5th, 2018.
