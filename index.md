@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Welcome to my GitHub Pages.
-
-
 ## About me
 
 Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](http://www.stat.ucla.edu/~taogao/) in [VCLA lab](http://vcla.stat.ucla.edu/index.html) at UCLA. Previously, I was a research assistant in EPIC Lab at Huazhong University of Science and Technology, advised by [Prof. Min Chen](http://mmlab.snu.ac.kr/~mchen/). I will receive a B.E. degree in Electrical Engineering and Automtion from Huazhong University of Science and Technology in June, 2019.
@@ -31,10 +28,11 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ## Selected projects
 
-*   Robotic Manipulation.
-*   Cognitive Science.
-*   Artificial Intelligence.
-*   Art and Design.
+*   Physical-Mind Joint Planning System
+*   Trajectory Optimization throuhg Generic Nonlinear Programming
+*   Emotion Communication and Affective Computing
+*   Cognitive Vehicular Ad Hoc Networks
+
 
 ## Publications
 
