@@ -7,16 +7,15 @@ Welcome to my GitHub Pages.
 
 ## About me
 
-Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](http://www.stat.ucla.edu/~taogao/) in [VCLA](http://vcla.stat.ucla.edu/index.html) lab at UCLA. Previously, I was a research assistant at EPIC Lab at Huazhong University of Science and Technology, advised by [Prof. Min Chen](http://mmlab.snu.ac.kr/~mchen/). I will receive a B.E. degree from Huazhong University of Science and Technology in June, 2019.
+Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](http://www.stat.ucla.edu/~taogao/) in [VCLA lab](http://vcla.stat.ucla.edu/index.html) at UCLA. Previously, I was a research assistant in EPIC Lab at Huazhong University of Science and Technology, advised by [Prof. Min Chen](http://mmlab.snu.ac.kr/~mchen/). I will receive a B.E. degree in Electrical Engineering and Automtion from Huazhong University of Science and Technology in June, 2019.
 
 Email: yuanwentian@hust.edu.cn
 
 ## Research interests
 
-> This is a blockquote following a header.
+> quote
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
+> 
 
 I believe **interdisciplinary** and can be inspired by so many fields, but the main idea is to
 combined robotics and cogsci，robotic manipulatuon is foundamaton to study，human’s intention，suchas Physics-AI. developing self-evolving system，engineer intuition，potentiality and curiousity，such concepts that can develop by themselves.
