@@ -50,7 +50,7 @@ I believe **interdisciplinary** and can be inspired by so many fields, but the m
 
 * **Yuanwen Tian**, J. Yang, J. Lu, C. Han, Z. Wei, “Cognitive Vehicular Ad Hoc Networks”, _IEEE_ _MMTC_ _Communications_ _Frontiers_, vol. 12, no. 2, pp. 3740, March, 2018.
 
-* M. Chen, **Yuanwen Tian**, G. Fortino, J. Zhang, I. Humar, “Cognitive Internet of Vehicles”, _Computer_ _Communications_, vol. 120, pp. 5870, 2018. [DOI: 10.1016/j.comcom.2018.02.006.](https://doi.org/10.1016/j.comcom.2018.02.006).
+* M. Chen, **Yuanwen Tian**, G. Fortino, J. Zhang, I. Humar, “Cognitive Internet of Vehicles”, _Computer_ _Communications_, vol. 120, pp. 5870, 2018. [DOI: 10.1016/j.comcom.2018.02.006.](https://doi.org/10.1016/j.comcom.2018.02.006)
 
 * Y. Miao, **Yuanwen Tian**, J. Cheng, M. S. Hossain, A. Ghoneim, “RADB: Random Access with Differentiated Barring for Latency Constrained Applications in NBIoT Network”, _Wireless_ _Communications_ _and_ _Mobile_ _Computing_, 2018. DOI: 10.1155/2018/6210408.
 
