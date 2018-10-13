@@ -36,10 +36,9 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
-| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> | Cart-pole example|
+Here I should put some words and a poster
 
-| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |
-
+| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" width="200"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" width="200"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/>|
 
 ### 3. Emotion Communication and Affective Computing
 
