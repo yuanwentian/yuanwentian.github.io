@@ -22,8 +22,7 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 *   Control & Optimization
 *   Robotic Manipulation.
 *   Cognitive Science.
-*   Artificial Intelligence.
-*   Art and Design.
+*   Artificial Intelligence: reinforcement learning and inverse reinforcement learning.
 
 
 
@@ -34,7 +33,7 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/>| Wolf-Sheep example |
 
-### 2. Trajectory Optimization through Generic Nonlinear Programming
+### 2. Model-Based Trajectory Planning through Generic Nonlinear Programming
 
 During my UCLA-CSST project, Here I should put some words and a poster [View Poster](/docs/Yuanwen_Poster.pdf)
 
@@ -42,9 +41,12 @@ During my UCLA-CSST project, Here I should put some words and a poster [View Pos
 
 ### 3. Emotion Communication and Affective Computing
 
+HCI and design
+
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/emotion_testbed.png?raw=true" alt="emotion_testbed"/>|
 
 ### 4. Cognitive Vehicular Ad Hoc Networks
+autonomous driving
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/ciov.png?raw=true" alt="ciov"/>|
 
