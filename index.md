@@ -32,10 +32,19 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 ## Selected projects
 
 ### 1. Physical-Mind Joint Inference System
+|![WolfSheep](/assets/img/wolf-sheep.gif)|Wolf-Sheep example|
+ 
+ <img src="/assets/img/wolf-sheep.gif" alt="drawing" width="200"/>
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
-|![Cartpole](/assets/img/cart_pole.gif =20x20)|Cart-pole example|
+|![CartPole](/assets/img/cart_pole.gif)|Cart-pole example|
+ 
+|![CartPole](/assets/img/cart_pole.gif)|Cart-pole example|
+
+ <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif" alt="drawing" width="200"/>
+
+ <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="drawing" width="200"/>
  
 ### 3. Emotion Communication and Affective Computing
 
