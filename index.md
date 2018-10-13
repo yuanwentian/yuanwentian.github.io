@@ -42,6 +42,8 @@ Here I should put some words and a poster
 
 ### 3. Emotion Communication and Affective Computing
 
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/emotion_testbed.png?raw=true" alt="emotion_testbed"/>|
+
 ### 4. Cognitive Vehicular Ad Hoc Networks
 
 
