@@ -8,6 +8,8 @@ Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](h
 
 Email: yuanwentian@hust.edu.cn
 
+* * *
+
 ## Research interests
 
 > quote
@@ -25,20 +27,22 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 
 
+* * *
 
 ## Selected projects
 
-### Physical-Mind Joint Planning System
+### 1. Physical-Mind Joint Planning System
 
-### Trajectory Optimization through Generic Nonlinear Programming
+### 2. Trajectory Optimization through Generic Nonlinear Programming
 
 ![Cartpole](/assets/img/cart_pole.gif)
+<img src="/assets/img/cart_pole.gif" width=25% align="right" /> 
 
+### 3. Emotion Communication and Affective Computing
 
-### Emotion Communication and Affective Computing
+### 4. Cognitive Vehicular Ad Hoc Networks
 
-### Cognitive Vehicular Ad Hoc Networks
-
+* * *
 
 ## Publications
 
