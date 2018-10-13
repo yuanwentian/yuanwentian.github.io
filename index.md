@@ -36,7 +36,7 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
-Here I should put some words and a poster
+During my UCLA-CSST project, Here I should put some words and a poster [View Poster](/docs/Yuanwen_Poster.pdf)
 
 | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="120"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="120"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="120"/>|
 
@@ -46,7 +46,7 @@ Here I should put some words and a poster
 
 ### 4. Cognitive Vehicular Ad Hoc Networks
 
-
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/ciov.png?raw=true" alt="ciov"/>|
 
 ## Publications
 
