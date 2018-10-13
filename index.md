@@ -34,18 +34,14 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 ### 1. Physical-Mind Joint Inference System
 |![WolfSheep](/assets/img/wolf-sheep.gif)|Wolf-Sheep example|
  
- <img src="/assets/img/wolf-sheep.gif" alt="drawing" width="200"/>
+ <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf-sheep.gif?raw=true" alt="wolf-sheeo" width="200"/> Cart-pole example
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
-|![CartPole](/assets/img/cart_pole.gif)|Cart-pole example|
- 
-|![CartPole](/assets/img/cart_pole.gif)|Cart-pole example|
+| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |Cart-pole example|
 
- <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif" alt="drawing" width="200"/>
+ <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> Cart-pole example
 
- <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="drawing" width="200"/>
- 
 ### 3. Emotion Communication and Affective Computing
 
 ### 4. Cognitive Vehicular Ad Hoc Networks
