@@ -32,7 +32,7 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ### Trajectory Optimization through Generic Nonlinear Programming
 
-![Cartpole](/assets/img/cart_pole.png)
+![Cartpole](/assets/img/cart_pole.gif)
 
 
 ### Emotion Communication and Affective Computing
