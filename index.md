@@ -12,17 +12,19 @@ Email: yuanwentian@hust.edu.cn
 
 ## Research interests
 
-> quote
->
-> 
+Aritificial intelligence, though soaring, are still far from human intelligence in generic level. 
+Inspired by my interdisciplinary research experience. My research interests lie in a combination with Robotic Manipulation and Cognitive Science. 
+My research interests focus on the difference between human intelligence and machine intelligence, to cognitive models to help design robots that can seamless collaborate with human beings.
 
-I believe **interdisciplinary** and can be inspired by so many fields, but the main idea is to
-combined robotics and cogsci，robotic manipulatuon is foundamaton to study，human’s intention，suchas Physics-AI. developing self-evolving system，engineer intuition，potentiality and curiousity，such concepts that can develop by themselves.
+[comment]: <> > quotation such as curiosity and self-evolving.
+[comment]: <> >why human can use such small data to compute so fast and make decisions so fast? efficiency and accuracy.
 
-*   Control & Optimization
+[comment]: <> Robotic manipulatuon is foundamaton to study，human’s intention，suchas Physics-AI. developing self-evolving system，engineer intuition，potentiality and curiousity，such concepts that can develop by themselves. 
+
+*   Control & Optimization Theory.
 *   Robotic Manipulation.
 *   Cognitive Science.
-*   Artificial Intelligence: reinforcement learning and inverse reinforcement learning.
+*   Artificial Intelligence and Application: reinforcement learning and inverse reinforcement learning. Multi Agent System.
 
 
 
@@ -35,7 +37,7 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ### 2. Model-Based Trajectory Planning through Generic Nonlinear Programming
 
-During my UCLA-CSST project, Here I should put some words and a poster [View Poster](/docs/Yuanwen_Poster.pdf)
+During my UCLA-CSST project, using C++, MuJoCo and Ipopt [Download Poster](/docs/Yuanwen_Poster.pdf)
 
 | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="120"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="120"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="120"/>|
 
