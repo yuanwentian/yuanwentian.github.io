@@ -31,12 +31,13 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ## Selected projects
 
-### 1. Physical-Mind Joint Planning System
+### 1. Physical-Mind Joint Inference System
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
-![Cartpole](/assets/img/cart_pole.gif=10*10)
-<img src="/assets/img/cart_pole.gif" width=25% align="right" /> 
+![Cartpole](/assets/img/cart_pole.gif)
+
+<img src="./assets/img/cart_pole.gif" width=25% align="right" /> 
 
 ### 3. Emotion Communication and Affective Computing
 
