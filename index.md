@@ -28,10 +28,16 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ## Selected projects
 
-*   Physical-Mind Joint Planning System
-*   Trajectory Optimization throuhg Generic Nonlinear Programming
-*   Emotion Communication and Affective Computing
-*   Cognitive Vehicular Ad Hoc Networks
+### Physical-Mind Joint Planning System
+
+### Trajectory Optimization through Generic Nonlinear Programming
+
+![Cartpole](/assets/img/cart_pole.png)
+
+
+### Emotion Communication and Affective Computing
+
+### Cognitive Vehicular Ad Hoc Networks
 
 
 ## Publications
