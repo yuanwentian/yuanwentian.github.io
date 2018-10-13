@@ -32,13 +32,13 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ### 1. Physical-Mind Joint Inference System
 
-|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf-sheep.gif?raw=true" alt="wolf-sheeo" width="200"/>| Wolf-Sheep example |
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/>| Wolf-Sheep example |
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
 Here I should put some words and a poster
 
-| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" width="200"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" width="200"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/>|
+| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="200"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="200"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="200"/>|
 
 ### 3. Emotion Communication and Affective Computing
 
