@@ -8,7 +8,7 @@ Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](h
 
 Email: yuanwentian@hust.edu.cn
 
-* * *
+
 
 ## Research interests
 
@@ -27,7 +27,6 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 
 
-* * *
 
 ## Selected projects
 
@@ -46,7 +45,7 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ### 4. Cognitive Vehicular Ad Hoc Networks
 
-* * *
+
 
 ## Publications
 
