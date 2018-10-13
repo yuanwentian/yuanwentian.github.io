@@ -32,15 +32,15 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 ## Selected projects
 
 ### 1. Physical-Mind Joint Inference System
-|![WolfSheep](/assets/img/wolf-sheep.gif)|Wolf-Sheep example|
- 
- <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf-sheep.gif?raw=true" alt="wolf-sheeo" width="200"/> Cart-pole example
+
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf-sheep.gif?raw=true" alt="wolf-sheeo" width="200"/>| Wolf-Sheep example |
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
-| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |Cart-pole example|
+| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> | Cart-pole example|
 
- <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> Cart-pole example
+| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" width="200"/> |
+
 
 ### 3. Emotion Communication and Affective Computing
 
