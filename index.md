@@ -35,10 +35,10 @@ combined robotics and cogsci，robotic manipulatuon is foundamaton to study，hu
 
 ### 2. Trajectory Optimization through Generic Nonlinear Programming
 
-![Cartpole](/assets/img/cart_pole.gif)
+|![Cartpole](/assets/img/cart_pole.gif)|Cart-pole example|
 
 <img src="./assets/img/cart_pole.gif" width=25% align="right" /> 
-
+ 
 ### 3. Emotion Communication and Affective Computing
 
 ### 4. Cognitive Vehicular Ad Hoc Networks
