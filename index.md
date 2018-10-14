@@ -21,8 +21,8 @@ My research interests focus on the difference between human intelligence and mac
 
 [comment]: <> Robotic manipulatuon is foundamaton to study，human’s intention，suchas Physics-AI. developing self-evolving system，engineer intuition，potentiality and curiousity，such concepts that can develop by themselves. 
 
-*   Control & Optimization Theory.
-*   Robotic Manipulation.
+*   Control and Optimization Theory.
+*   Robotic Manipulation and Motion Planning.
 *   Cognitive Science.
 *   Artificial Intelligence and Application: reinforcement learning and inverse reinforcement learning. Multi Agent System.
 
@@ -41,14 +41,14 @@ During my UCLA-CSST project, using C++, MuJoCo and Ipopt [Download Poster](/docs
 
 | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="120"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="120"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="120"/>|
 
-### 3. Emotion Communication and Affective Computing
+### 3. Emotion Communication and Affective Interaction System
 
-HCI and design
+Emotion detection, as a typical AI related application, needs a ﬂexible computing platform is needed. In this project, a prototype system for emotion detection and interaction is designed. The emotion detection and interaction system are closely related to the user’s characteristics, so the robot design used the IoT framework to fetch needed information. The system adopted an audio-visual information-based method to collect the multimodal data. The main emotion data were user’s facial images and voices. The audio-visual information-based method had the advantages of high-accuracy recognition and low-overhead computation.
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/emotion_testbed.png?raw=true" alt="emotion_testbed"/>|
 
 ### 4. Cognitive Vehicular Ad Hoc Networks
-autonomous driving
+ Internet of Vehicles (IoV) has attracted wide attention from both academia and industry. However, suitable cost and stable connectivity cannot be strongly guaranteed by existing architectures such as cellular networks, vehicular ad hoc networks, etc. With the prosperous development of artificial intelligence, cloud/edge computing and 5G network slicing, a more intelligent vehicular network is under deliberation. In this project, we propose an innovative paradigm called Cognitive Internet Ad Hoc Networks to fully realize future autonomous driving scenarios. Different from existing works, which mainly focus on communication technologies, CIoV enhances transportation safety and network security by mining effective information from both physical and network data space.
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/ciov.png?raw=true" alt="ciov"/>|
 
