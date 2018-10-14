@@ -33,11 +33,14 @@ My research interests focus on the difference between human intelligence and mac
 
 ### 1. Physical-Mind Joint Inference System
 
-|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/>| Wolf-Sheep example |
+ Wolf-Sheep example
+
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/> |
 
 ### 2. Model-Based Trajectory Planning through Generic Nonlinear Programming
 
-During my UCLA-CSST project, using C++, MuJoCo and Ipopt [Download Poster](/docs/Yuanwen_Poster.pdf)
+During my UCLA-CSST project, using C++, MuJoCo and Ipopt 
+[[Download Poster](/docs/Yuanwen_Poster.pdf)]
 
 | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="120"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="120"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="120"/>|
 
