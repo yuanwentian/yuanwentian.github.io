@@ -11,21 +11,15 @@ Email: yuanwentian@hust.edu.cn
 
 
 ## Research interests
+> The important thing is not to stop questioning. Curiosity has its own reason for existing. --Albert Einstein
 
-Aritificial intelligence, though soaring, are still far from human intelligence in generic level. 
-Inspired by my interdisciplinary research experience. My research interests lie in a combination with Robotic Manipulation and Cognitive Science. 
-My research interests focus on the difference between human intelligence and machine intelligence, to cognitive models to help design robots that can seamless collaborate with human beings.
+The beauty of human mind never cease to amaze me. Unlike artificial intelligence, human intelligence is self-evolving. Human intelligence never trys to converge to one point, but instead, develops into multiple possiblities, let alone how efficient and accurate it can be.
 
-[comment]: <> > quotation such as curiosity and self-evolving.
-[comment]: <> >why human can use such small data to compute so fast and make decisions so fast? efficiency and accuracy.
+Inspired by my research experience, my research interests lie in an interdisciplinary area with Artificial Intelligence, Robotic Manipulation and Cognitive Science, focus on exploring the difference between human intelligence and machine intelligence, and designing cognitive models for seamless collaboration between robot and human.
 
-[comment]: <> Robotic manipulatuon is foundamaton to study，human’s intention，suchas Physics-AI. developing self-evolving system，engineer intuition，potentiality and curiousity，such concepts that can develop by themselves. 
-
-*   Control and Optimization Theory.
-*   Robotic Manipulation and Motion Planning.
-*   Cognitive Science.
-*   Artificial Intelligence and Application: reinforcement learning and inverse reinforcement learning. Multi Agent System.
-
+*   Artificial Intelligence and Application: reinforcement learning and inverse reinforcement learning, multi-agent system, autonomous driving.
+*   Robotic Manipulation: motion planning, signal processing, control and optimization.
+*   Cognitive Science: How to use mathematics as an expression of the human mind to reflect the active will and the contemplative reason.
 
 
 
