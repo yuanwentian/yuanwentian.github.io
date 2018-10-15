@@ -11,13 +11,11 @@ Email: yuanwentian@hust.edu.cn
 
 
 ## Research interests
-> The important thing is not to stop questioning. Curiosity has its own reason for existing. --Albert Einstein
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.                       --Albert Einstein
 
-The beauty of human mind never cease to amaze me. Unlike artificial intelligence, human intelligence is self-evolving. Human intelligence never trys to converge to one point, but instead, develops into multiple possiblities, let alone how efficient and accurate it can be.
+The beauty of human mind never cease to amaze me. Unlike artificial intelligence, human intelligence never trys to converge to one point, but instead, develops into multiple possiblities, let alone how efficient and accurate it can be. Inspired by my research experience, my research interests lie in an interdisciplinary area with Artificial Intelligence, Robotic Manipulation and Cognitive Science.
 
-Inspired by my research experience, my research interests lie in an interdisciplinary area with Artificial Intelligence, Robotic Manipulation and Cognitive Science, focus on exploring the difference between human intelligence and machine intelligence, and designing cognitive models for seamless collaboration between robot and human.
-
-*   Artificial Intelligence and Application: reinforcement learning and inverse reinforcement learning, multi-agent system, autonomous driving.
+*   Artificial Intelligence: reinforcement learning, multi-agent system, autonomous driving.
 *   Robotic Manipulation: motion planning, signal processing, control and optimization.
 *   Cognitive Science: How to use mathematics as an expression of the human mind to reflect the active will and the contemplative reason.
 
@@ -29,7 +27,7 @@ Inspired by my research experience, my research interests lie in an interdiscipl
 
  Wolf-Sheep example
 
-|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200" align="middle"/>|
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/>|
 
 ### 2. Model-Based Trajectory Planning through Generic Nonlinear Programming
 
@@ -37,7 +35,7 @@ During my UCLA-CSST project, using C++, MuJoCo and Ipopt
 
 [[Download Poster]](/docs/Yuanwen_Poster.pdf)
 
-| <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="120"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="120"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="120"/>|
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="120"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="120"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="120"/>|
 
 ### 3. Emotion Communication and Affective Interaction System
 
