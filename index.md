@@ -24,7 +24,7 @@ The beauty of human mind never cease to amaze me. Unlike artificial intelligence
 ## Selected projects
 
 ### 1. Physical-Mind Joint Inference System
-How does human interpret a scene? Based on Prof. Tao Gao's previous research work "chasing attention animacy", in this project, we further explore how human understand and infer the function of system. The result shows that tells human can better understand the system in pyhsical-mind joint inference perspective. Below is the demo in which we try to simulate a dog chasing a rabbit but being dragged by a human.
+How does human interpret a visual system? Based on Prof. Tao Gao's previous research work "chasing attention animacy", in this project, we further explore how human understand and infer the function of system. The result shows that tells human can better understand the system in pyhsical-mind joint inference perspective. Below is the demo in which we try to simulate a dog chasing a rabbit but being dragged by a human.
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/>|
 
