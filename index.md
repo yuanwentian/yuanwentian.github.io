@@ -29,7 +29,7 @@ Inspired by my research experience, my research interests lie in an interdiscipl
 
  Wolf-Sheep example
 
-|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/> |
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200" align="middle"/>|
 
 ### 2. Model-Based Trajectory Planning through Generic Nonlinear Programming
 
