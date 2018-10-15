@@ -11,7 +11,7 @@ Email: yuanwentian@hust.edu.cn
 
 
 ## Research interests
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.                       --Albert Einstein
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.                       ----Albert Einstein
 
 The beauty of human mind never cease to amaze me. Unlike artificial intelligence, human intelligence never trys to converge to one point, but instead, develops into multiple possiblities, let alone how efficient and accurate it can be. Inspired by my research experience, my research interests lie in an interdisciplinary area with Artificial Intelligence, Robotic Manipulation and Cognitive Science.
 
