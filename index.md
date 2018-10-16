@@ -48,13 +48,13 @@ In this project, a prototype system for emotion detection and interaction is des
 
 ## Publications
 
-* Y. Qian, **Yuanwen Tian**, et al., “Towards Decentralized IoT Security Enhancement: A Blockchain Approach”, _Computers_ _and_ _Electrical_ _Engineering_, accepted on July 5th, 2018.
+* Y. Qian, **Yuanwen Tian**, et al., “Towards Decentralized IoT Security Enhancement: A Blockchain Approach”, _Computers_ _and_ _Electrical_ _Engineering_, vol. 72, pp. 266-273, 2018. [DOI： 10.1016/j.compeleceng.2018.08.021.](https://doi.org/10.1016/j.compeleceng.2018.08.021)
 
-* **Yuanwen Tian**, J. Yang, J. Lu, C. Han, Z. Wei, “Cognitive Vehicular Ad Hoc Networks”, _IEEE_ _MMTC_ _Communications_ _Frontiers_, vol. 12, no. 2, pp. 3740, March, 2018.
+* **Yuanwen Tian**, J. Yang, J. Lu, C. Han, Z. Wei, “Cognitive Vehicular Ad Hoc Networks”, _IEEE_ _MMTC_ _Communications_ _Frontiers_, vol. 12, no. 2, pp. 37-40, March, 2018.
 
 * Y. Miao, **Yuanwen Tian**, J. Cheng, M. S. Hossain, A. Ghoneim, “RADB: Random Access with Differentiated Barring for Latency Constrained Applications in NBIoT Network”, _Wireless_ _Communications_ _and_ _Mobile_ _Computing_, 2018. [DOI: 10.1155/2018/6210408.](https://doi.org/10.1155/2018/6210408)
 
-* M. Chen, **Yuanwen Tian**, G. Fortino, J. Zhang, I. Humar, “Cognitive Internet of Vehicles”, _Computer_ _Communications_, vol. 120, pp. 5870, 2018. [DOI: 10.1016/j.comcom.2018.02.006.](https://doi.org/10.1016/j.comcom.2018.02.006)
+* M. Chen, **Yuanwen Tian**, G. Fortino, J. Zhang, I. Humar, “Cognitive Internet of Vehicles”, _Computer_ _Communications_, vol. 120, pp. 58-70, 2018. [DOI: 10.1016/j.comcom.2018.02.006.](https://doi.org/10.1016/j.comcom.2018.02.006)
 
 * Y. Miao, **Yuanwen Tian**, L. Peng, M. S. Hossain, G. Mohammad, “Research and Implementation of ECG-Based Biological Recognition Parallelization”, _IEEE_ _Access_, vol. 6, pp. 4759–4766, 2017. [DOI: 10.1109/ACCESS.2017.2771220.](https://doi.org/10.1109/ACCESS.2017.2771220)
  
