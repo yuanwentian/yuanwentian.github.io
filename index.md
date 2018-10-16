@@ -48,7 +48,7 @@ In this project, a prototype system for emotion detection and interaction is des
 
 ## Publications
 
-* Y. Qian, **Yuanwen Tian**, et al., “Towards Decentralized IoT Security Enhancement: A Blockchain Approach”, _Computers_ _and_ _Electrical_ _Engineering_, vol. 72, pp. 266-273, 2018. [DOI： 10.1016/j.compeleceng.2018.08.021.](https://doi.org/10.1016/j.compeleceng.2018.08.021)
+* Y. Qian, **Yuanwen Tian**, et al., “Towards Decentralized IoT Security Enhancement: A Blockchain Approach”, _Computers_ _and_ _Electrical_ _Engineering_, vol. 72, pp. 266-273, 2018. [DOI: 10.1016/j.compeleceng.2018.08.021.](https://doi.org/10.1016/j.compeleceng.2018.08.021)
 
 * **Yuanwen Tian**, J. Yang, J. Lu, C. Han, Z. Wei, “Cognitive Vehicular Ad Hoc Networks”, _IEEE_ _MMTC_ _Communications_ _Frontiers_, vol. 12, no. 2, pp. 37-40, March, 2018.
 
