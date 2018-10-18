@@ -24,12 +24,12 @@ The beauty of human mind never ceases to amaze me. Unlike artificial intelligenc
 ## Selected projects
 
 ### 1. Physical-Mind Joint Inference System
-How does human interpret a visual system? Based on Prof. Tao Gao's previous research work "chasing attention animacy", in this project, we further explore how human understand and infer the function of system. The result shows that tells human can better understand the system in pyhsical-mind joint inference perspective. Below is the demo in which we try to simulate a dog chasing a rabbit but being dragged by a human.
+How does human interpret a visual system? Based on Prof. Tao Gao's previous research work "chasing attention animacy", in this project, we further explore how human understand and infer the function of system. The result shows that tells human can better understand the system in pyhsical-mind joint inference perspective. Below are the demos in which we try to simulate a dog chasing a rabbit but being dragged by a human. Can you still quickly detect the system relationship if we remove the tendon(system cosntraint)?
 
-|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep.gif?raw=true" alt="wolf_sheep" width="200"/>|
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/Wolf_Sheep_With_Rope.gif?raw=true" alt="Wolf_Sheep_With_Rope" height="200"/>|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/Wolf_Sheep_Without_Rope.gif?raw=true" alt="Wolf_Sheep_Without_Rope" height="200"/>
 
 ### 2. Model-Based Trajectory Planning through Generic Nonlinear Programming
-In this project, we build a model-­based trajectory planning library using CMake and C++, the idea is to implement robotic motion planning with constraints using MuJoCo (Multi­Joint dynamics with Contact) physics engine and IPOPT (Interior Point OPTimizer) solver. We evaluated our trajectory planning library on two task scenarios (random­-target and collision­-free) and three models (inverted pendulum, inverted double pendulum and cart pole).
+In this project, we build a model-­based trajectory planning library using CMake and C++, the idea is to implement robotic motion planning with constraints using MuJoCo (Multi­ Joint dynamics with Contact) physics engine and IPOPT (Interior Point OPTimizer) solver. We evaluated our trajectory planning library on two task scenarios (random­-target and collision­-free) and three models (inverted pendulum, inverted double pendulum and cart pole).
 
 [[Download Poster]](/docs/Yuanwen_Poster.pdf)
 
