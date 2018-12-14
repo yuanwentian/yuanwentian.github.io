@@ -48,7 +48,11 @@ In this project, a prototype system for emotion detection and interaction is des
 
 ## Publications
 
-* Min Chen, **Yuanwen Tian**, et al., “AI-Enabled Task Offloading (AITO) over Smart Fogs and Clouds: A Case Study on Emotion Detection.” submitted.
+* M. Chen, **Yuanwen Tian**, et al., “iTaskOffloading: AI­Enabled Task Offloading over Smart Edge: A Case Study on Emotion Detection”, _IEEE_ _Network_, **under review**, I am the **co­-first author**, manuscript: NETWORK­-18­-00486.
+
+* M. Chen, **Yuanwen Tian**, et al., “Joint Optimization of Computation, Communication, Caching in Cooperative Unmanned Ariel Vehicles Networks”, will be submitted to _Information_ _Fusion_, I will be the **co­-first author**.
+
+* Y. Hao, Y. Miao, **Yuanwen Tian**, L. Hu, et al., “Smart­ Edge­CoCaCo: AI­Enabled Smart Edge with Joint Computation, Caching, and Communication in Heterogeneous IoT”, _IEEE_ _Network_, **under review**, manuscript: NETWORK­-18­-00235.R2.
 
 * **Yuanwen Tian**, J. Yang, J. Lu, C. Han, Z. Wei, “Cognitive Vehicular Ad Hoc Networks”, _IEEE_ _MMTC_ _Communications_ _Frontiers_, vol. 12, no. 2, pp. 37-40, March, 2018.
 
