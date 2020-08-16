@@ -19,7 +19,7 @@ Looking for software engineer fulltime position in full stack web development, d
 ### ESN: Emergency Social Network Web Application, CMU-SV
 Project Video Demo: [Youtube](https://youtu.be/7lXMr_vxipY) or [bilibili](https://www.bilibili.com/video/BV19h411d7qq/)
 
-<iframe src="//player.bilibili.com/player.html?aid=201757751&bvid=BV19h411d7qq&cid=225048728&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="450" height="300" src="//player.bilibili.com/player.html?aid=201757751&bvid=BV19h411d7qq&cid=225048728&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 Brief: This is a team project across whole 2019 Fall term. We want to develop a live social network application where citizens could get medical assistance during emergence.
 
