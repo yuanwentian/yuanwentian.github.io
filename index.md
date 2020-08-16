@@ -22,28 +22,20 @@ The beauty of human mind never ceases to amaze me. Unlike artificial intelligenc
 
 ## Selected projects
 
-### 1. Physical-Mind Joint Inference System
+### ESN: Emergency Social Network Web Application, CMU-SV
+https://youtu.be/7lXMr_vxipY
+
+### Physical-Mind Joint Inference System
 How does human interpret a visual system? Based on Prof. Tao Gao's previous research work "chasing attention animacy", in this project, we further explore how human understand and infer the function of system. The result shows that tells human can better understand the system in pyhsical-mind joint inference perspective. Can you quickly detect the system relationship in the left demo? How about the right demo with the system constraint (tendon）visiable? （The system relationship are intended to simulate a dog chasing a rabbit but being dragged by a human.)
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep_without_rope.gif?raw=true" alt="Wolf_Sheep_Without_Rope" height="200"/>|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/wolf_sheep_with_rope.gif?raw=true" alt="Wolf_Sheep_With_Rope" height="200"/>|
 
-### 2. Model-Based Trajectory Planning through Generic Nonlinear Programming
+### Model-Based Trajectory Planning through Generic Nonlinear Programming
 In this project, we build a model-­based trajectory planning library using CMake and C++, the idea is to implement robotic motion planning with constraints using MuJoCo (Multi­ Joint dynamics with Contact) physics engine and IPOPT (Interior Point OPTimizer) solver. We evaluated our trajectory planning library on two task scenarios (random­-target and collision­-free) and three models (inverted pendulum, inverted double pendulum and cart pole).
 
 [[Download Poster]](/docs/Yuanwen_Poster.pdf)
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_pendulum.gif?raw=true" alt="cart-pole" height="120"/> |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/inverted_double_pendulum.gif?raw=true" alt="cart-pole" height="120"/> | <img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/cart_pole.gif?raw=true" alt="cart-pole" height="120"/>|
-
-### 3. Emotion Communication and Affective Interaction System
-
-In this project, a prototype system for emotion detection and interaction is designed. The emotion detection and interaction system are closely related to the user’s characteristics, so the robot design used the IoT framework to fetch needed information. The system adopted an audio-visual information-based method to collect the multimodal data. The main emotion data were user’s facial images and voices. The audio-visual information-based method had the advantages of high-accuracy recognition and low-overhead computation.
-
-|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/emotion_testbed.png?raw=true" alt="emotion_testbed"/>|
-
-### 4. Cognitive Vehicular Ad Hoc Networks
- With the prosperous development of artificial intelligence, cloud/edge computing and 5G network slicing, a more intelligent vehicular network is under deliberation. In this project, we propose an innovative paradigm called Cognitive Internet Ad Hoc Networks to fully realize future autonomous driving scenarios. Different from existing works, which mainly focus on communication technologies, CIoV enhances transportation safety and network security by mining effective information from both physical and network data space.
-
-|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/ciov.png?raw=true" alt="ciov"/>|
 
 
 ## Publications
