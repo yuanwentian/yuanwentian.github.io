@@ -2,12 +2,13 @@
 layout: default
 ---
 
+
+
 ## About me
 
 Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](http://www.stat.ucla.edu/~taogao/) in [VCLA lab](http://vcla.stat.ucla.edu/index.html) at UCLA. Previously, I was a research assistant in EPIC Lab at Huazhong University of Science and Technology, advised by [Prof. Min Chen](http://mmlab.snu.ac.kr/~mchen/). I will receive a B.E. degree in Electrical Engineering and Automtion from Huazhong University of Science and Technology in June, 2019.
 
-Email: yuanwentian@hust.edu.cn
-
+Email: yuanwent@andrew.cmu.edu
 
 
 ## Research interests
@@ -46,7 +47,9 @@ In this project, a prototype system for emotion detection and interaction is des
 
 |<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/ciov.png?raw=true" alt="ciov"/>|
 
+
 ## Publications
+[## Publications](./another-page.html).
 
 * M. Chen, **Yuanwen Tian**, et al., “iTaskOffloading: AI­Enabled Task Offloading over Smart Edge: A Case Study on Emotion Detection”, _IEEE_ _Network_, **under review**, I am the **co­-first author**, manuscript: NETWORK­-18­-00486.
 
