@@ -5,7 +5,6 @@ layout: default
 ## About me
 > The important thing is not to stop questioning. Curiosity has its own reason for existing.                       ---Albert Einstein
 
-Welcome to my personal website, my name is Yuanwen Tian and I am a Master student in ECE at CMU. I am inspired to become a software engineer who wants to learn, to dream and to achieve. 
 
 From June to August in 2020, I was a Software Engineering Intern at Apple. I will graduate Carnegie Mellon University in 2020 Decemeber. For now, I am actively seeking fulltime job. 
 
@@ -18,7 +17,8 @@ Looking for software engineer fulltime position in full stack web development, d
 ## Selected projects
 
 ### ESN: Emergency Social Network Web Application, CMU-SV
-[project](https://youtu.be/7lXMr_vxipY)
+[project video demo](https://youtu.be/7lXMr_vxipY)
+
 Brief: This is a team project across whole 2019 Fall term. We want to develop a live social network application where citizens could get medical assistance during emergence.
 
 Functionality: After joining the community, citizens can add private doctors, upload medical information and search nearby help centers. When Emergency actually happened, citizens can get medical assistance just clicks away, the doctor will be notified immediately and find the citizen accurately through location sharing. 
