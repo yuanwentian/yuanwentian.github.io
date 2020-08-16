@@ -2,7 +2,7 @@
 layout: post
 ---
 
-[back to index page](./)
+[Back to index page](./)
 
 * Y. Miao, **Yuanwen Tian**, J. Cheng, M. S. Hossain, A. Ghoneim, “RADB: Random Access with Differentiated Barring for Latency Constrained Applications in NBIoT Network”, _Wireless_ _Communications_ _and_ _Mobile_ _Computing_, 2018. [DOI: 10.1155/2018/6210408.](https://doi.org/10.1155/2018/6210408)
 
