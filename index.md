@@ -23,7 +23,7 @@ The beauty of human mind never ceases to amaze me. Unlike artificial intelligenc
 ## Selected projects
 
 ### ESN: Emergency Social Network Web Application, CMU-SV
-https://youtu.be/7lXMr_vxipY
+[project](https://youtu.be/7lXMr_vxipY)
 
 ### Physical-Mind Joint Inference System
 How does human interpret a visual system? Based on Prof. Tao Gao's previous research work "chasing attention animacy", in this project, we further explore how human understand and infer the function of system. The result shows that tells human can better understand the system in pyhsical-mind joint inference perspective. Can you quickly detect the system relationship in the left demo? How about the right demo with the system constraint (tendon）visiable? （The system relationship are intended to simulate a dog chasing a rabbit but being dragged by a human.)
