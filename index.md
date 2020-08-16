@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-
 ## About me
 
 Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](http://www.stat.ucla.edu/~taogao/) in [VCLA lab](http://vcla.stat.ucla.edu/index.html) at UCLA. Previously, I was a research assistant in EPIC Lab at Huazhong University of Science and Technology, advised by [Prof. Min Chen](http://mmlab.snu.ac.kr/~mchen/). I will receive a B.E. degree in Electrical Engineering and Automtion from Huazhong University of Science and Technology in June, 2019.
@@ -49,22 +47,4 @@ In this project, a prototype system for emotion detection and interaction is des
 
 
 ## Publications
-[## Publications](./another-page.html).
-
-* M. Chen, **Yuanwen Tian**, et al., “iTaskOffloading: AI­Enabled Task Offloading over Smart Edge: A Case Study on Emotion Detection”, _IEEE_ _Network_, **under review**, I am the **co­-first author**, manuscript: NETWORK­-18­-00486.
-
-* M. Chen, **Yuanwen Tian**, et al., “Joint Optimization of Computation, Communication, Caching in Cooperative Unmanned Ariel Vehicles Networks”, will be submitted to _Information_ _Fusion_, I will be the **co­-first author**.
-
-* Y. Hao, Y. Miao, **Yuanwen Tian**, L. Hu, et al., “Smart­ Edge­CoCaCo: AI­Enabled Smart Edge with Joint Computation, Caching, and Communication in Heterogeneous IoT”, _IEEE_ _Network_, **under review**, manuscript: NETWORK­-18­-00235.R2.
-
-* **Yuanwen Tian**, J. Yang, J. Lu, C. Han, Z. Wei, “Cognitive Vehicular Ad Hoc Networks”, _IEEE_ _MMTC_ _Communications_ _Frontiers_, vol. 12, no. 2, pp. 37-40, March, 2018.
-
-* Y. Miao, **Yuanwen Tian**, J. Cheng, M. S. Hossain, A. Ghoneim, “RADB: Random Access with Differentiated Barring for Latency Constrained Applications in NBIoT Network”, _Wireless_ _Communications_ _and_ _Mobile_ _Computing_, 2018. [DOI: 10.1155/2018/6210408.](https://doi.org/10.1155/2018/6210408)
-
-* M. Chen, **Yuanwen Tian**, G. Fortino, J. Zhang, I. Humar, “Cognitive Internet of Vehicles”, _Computer_ _Communications_, vol. 120, pp. 58-70, 2018. [DOI: 10.1016/j.comcom.2018.02.006.](https://doi.org/10.1016/j.comcom.2018.02.006)
-
-* Y. Miao, **Yuanwen Tian**, L. Peng, M. S. Hossain, G. Mohammad, “Research and Implementation of ECG-Based Biological Recognition Parallelization”, _IEEE_ _Access_, vol. 6, pp. 4759–4766, 2017. [DOI: 10.1109/ACCESS.2017.2771220.](https://doi.org/10.1109/ACCESS.2017.2771220)
- 
-* W. Li, J. Lu, Y. Xu, Z. Wei, **Yuanwen Tian**, Y. Miao, “Wireless Cooperative Caching in Device to Device Networks: Simulation and Modeling”, _12th_ _EAI_ _International_ _Conference_ _on_ _Testbeds_ _and_ _Research_ _Infrastructures_ _for_ _the_ _Development_ _of_ _Networks_ _&_ _Communities_ _(TRIDENTCOM_ _2017)_, 2017. (**Best Student Paper Award**) [DOI: 10.4108/eai.2892017.2273362.](http://dx.doi.org/10.4108/eai.28-9-2017.2273362)
- 
-* J. Yang, Y. Miao, C. Han, **Yuanwen Tian**, X. You, Y. Jiang, “OPPOCO: From Ad Hoc Cloudletassisted Edge Computation to Opportunistic Computation Offoading”, _12th_ _EAI_ _International_ _Conference_ _on_ _Testbeds_ _and_ _Research_ _Infrastructures_ _for_ _the_ _Development_ _of_ _Networks_ _&_ _Communities_ _(TRIDENTCOM_ _2017)_, 2017. [DOI: 10.4108/eai.2892017.2273365.](http://dx.doi.org/10.4108/eai.28-9-2017.2273365)
+[Full Publications List](./publication-page.html).
