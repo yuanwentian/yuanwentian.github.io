@@ -3,27 +3,29 @@ layout: default
 ---
 
 ## About me
+> The important thing is not to stop questioning. Curiosity has its own reason for existing.                       ---Albert Einstein
 
-Currently, I am an undergraduate research assistant advised by [Prof. Tao Gao](http://www.stat.ucla.edu/~taogao/) in [VCLA lab](http://vcla.stat.ucla.edu/index.html) at UCLA. Previously, I was a research assistant in EPIC Lab at Huazhong University of Science and Technology, advised by [Prof. Min Chen](http://mmlab.snu.ac.kr/~mchen/). I will receive a B.E. degree in Electrical Engineering and Automtion from Huazhong University of Science and Technology in June, 2019.
+Welcome to my personal website, my name is Yuanwen Tian and I am a Master student in ECE at CMU. 
+
+From June to August in 2020, I was a Software Engineering Intern at Apple. 
+
+I am inspired to become a software engineer who wants to learn, to dream and to achieve. 
+
+Currently, I am actively seeking fulltime job. I will graduate Carnegie Mellon University in 2020 Decemeber.
 
 Email: yuanwent@andrew.cmu.edu
 
 
-## Research interests
-> The important thing is not to stop questioning. Curiosity has its own reason for existing.                       ---Albert Einstein
-
-The beauty of human mind never ceases to amaze me. Unlike artificial intelligence, human intelligence never trys to converge to one point, but instead, develops into multiple possiblities, let alone how efficient and accurate it can be. Inspired by my research experience, my research interests lie in an interdisciplinary area with Artificial Intelligence, Robotic Manipulation and Cognitive Science.
-
-*   Artificial Intelligence: reinforcement learning, multi-agent system, autonomous driving.
-*   Robotic Manipulation: motion planning, signal processing, control and optimization.
-*   Cognitive Science: How to use mathematics as an expression of the human mind to reflect the active will and the contemplative reason.
-
-
+## Objective
+Looking for software engineer fulltime position in full stack web development, data visualiztion or artificial intelligence applications development.
 
 ## Selected projects
 
 ### ESN: Emergency Social Network Web Application, CMU-SV
 [project](https://youtu.be/7lXMr_vxipY)
+
+<!-- ### COVID19 Bay Area Visualizer
+[project](https://youtu.be/7lXMr_vxipY) -->
 
 ### Physical-Mind Joint Inference System
 How does human interpret a visual system? Based on Prof. Tao Gao's previous research work "chasing attention animacy", in this project, we further explore how human understand and infer the function of system. The result shows that tells human can better understand the system in pyhsical-mind joint inference perspective. Can you quickly detect the system relationship in the left demo? How about the right demo with the system constraint (tendon）visiable? （The system relationship are intended to simulate a dog chasing a rabbit but being dragged by a human.)
