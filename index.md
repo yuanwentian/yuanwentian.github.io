@@ -30,7 +30,7 @@ It was great to be the team captain of Team Tartans in the first Claris Hackatho
 
 Our project demonstrates coolness, innovation and business value in following ways. We visualized spatial and temporal pandemic trend. We also used machine learning models for prediction. Finally, we demonstrate low code, fast development feature of Claris products with newest powerful addons. As a result, we won an overall award among all teams.
 
-|<img src="./assets/img/claris-hackathon.png" alt="claris_hackathon" height="200"/>
+|<img src="https://github.com/yuanwentian/yuanwentian.github.io/blob/master/assets/img/claris_hackathon.png?raw=true" alt="claris_hackathon" height="200"/>
 
 
 ### Physical-Mind Joint Inference System (2018 Fall)
